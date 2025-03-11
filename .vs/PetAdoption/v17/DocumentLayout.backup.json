@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoption\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\ShelterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoption\\ShelterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\petadoption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:petadoption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\PetForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoption\\PetForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\HomeAdopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoption\\HomeAdopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\AdoptionRequestsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoption\\AdoptionRequestsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\SignupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoption\\SignupForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\AdopterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoption\\AdopterForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\HomeAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoption\\HomeAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\ShelterAddEditForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PetAdoption\\ShelterAddEditForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShelterForm.cs",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\ShelterForm.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\ShelterForm.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\ShelterForm.cs",
+              "RelativeToolTip": "PetAdoption\\ShelterForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:58:39.514Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\Form1.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\Form1.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\Form1.cs",
+              "RelativeToolTip": "PetAdoption\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:39:19.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\Form1.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\Form1.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\Form1.cs [Design]",
+              "RelativeToolTip": "PetAdoption\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:41:40.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetForm.cs",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\PetForm.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\PetForm.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\PetForm.cs",
+              "RelativeToolTip": "PetAdoption\\PetForm.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:53:45.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeAdopter.cs",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\HomeAdopter.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\HomeAdopter.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\HomeAdopter.cs",
+              "RelativeToolTip": "PetAdoption\\HomeAdopter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T22:36:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdoptionRequestsForm.cs",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\AdoptionRequestsForm.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\AdoptionRequestsForm.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\AdoptionRequestsForm.cs",
+              "RelativeToolTip": "PetAdoption\\AdoptionRequestsForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:23:42.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignupForm.cs",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\SignupForm.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\SignupForm.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\SignupForm.cs",
+              "RelativeToolTip": "PetAdoption\\SignupForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:36:14.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdopterForm.cs",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\AdopterForm.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\AdopterForm.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\AdopterForm.cs",
+              "RelativeToolTip": "PetAdoption\\AdopterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T21:11:31.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeAdmin.cs",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\HomeAdmin.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\HomeAdmin.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\HomeAdmin.cs",
+              "RelativeToolTip": "PetAdoption\\HomeAdmin.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:46:18.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShelterAddEditForm.cs",
+              "DocumentMoniker": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\ShelterAddEditForm.cs",
+              "RelativeDocumentMoniker": "PetAdoption\\ShelterAddEditForm.cs",
+              "ToolTip": "D:\\EMSI\\4emeAnnee\\S7\\.Net\\PetAdoption\\PetAdoption\\ShelterAddEditForm.cs",
+              "RelativeToolTip": "PetAdoption\\ShelterAddEditForm.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:14:50.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
